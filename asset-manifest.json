@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/login-registration/static/css/main.c4ff03f7.css",
+    "main.js": "/login-registration/static/js/main.21ac79d9.js",
+    "static/js/453.e35384b7.chunk.js": "/login-registration/static/js/453.e35384b7.chunk.js",
+    "static/media/mario-losereit-4yC3rdnnHx4-unsplash.jpg": "/login-registration/static/media/mario-losereit-4yC3rdnnHx4-unsplash.9706add38b3f9eddd784.jpg",
+    "index.html": "/login-registration/index.html",
+    "main.c4ff03f7.css.map": "/login-registration/static/css/main.c4ff03f7.css.map",
+    "main.21ac79d9.js.map": "/login-registration/static/js/main.21ac79d9.js.map",
+    "453.e35384b7.chunk.js.map": "/login-registration/static/js/453.e35384b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4ff03f7.css",
+    "static/js/main.21ac79d9.js"
+  ]
+}
